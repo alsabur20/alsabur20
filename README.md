@@ -1,94 +1,106 @@
-<h1 align="center">Hi 👋, I'm Abdul Sabur</h1>
-<h3 align="center">Passionate Developer | Problem Solver | AI Enthusiast | Building Smart & Scalable Solutions 🚀</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:e63946&height=220&section=header&text=Abdul%20Sabur&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Problem%20Solver&descSize=18&descColor=a8b2d1&descAlignY=55" alt="header"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alsabur20&label=Profile%20views&color=0e75b6&style=flat" alt="alsabur20" />
-</p>
+<div align="center">
 
-## 🚀 About Me  
-- 👯 I’m looking to collaborate on **AI/ML projects, full-stack web apps, and open-source development**  
-- 💬 Ask me about **AI/ML, Next.js, React Native, FastAPI, and backend development.**  
-- 📫 Reach me at **alsabur20@gmail.com**  
-- 📄 Check out my experiences: [Resume](https://drive.google.com/file/d/14_srU4823yQaZOGYUtRRAZ6qIO5wa-lE/view?usp=drive_link)  
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&random=false&width=600&height=45&lines=I+build+web+and+mobile+apps;I+like+working+with+AI;Always+up+for+open+source;Let's+build+something+cool" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 🔗 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/alsabur20" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://stackoverflow.com/users/22485261" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40"/>
-  </a>
-  <a href="https://fb.com/itssaburhere" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/itssaburhere" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/alsabur20" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
-  </a>
-  <a href="https://www.leetcode.com/alsabur20" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
-  </a>
-</p>
+<a href="https://github.com/alsabur20" target="_blank"><img src="https://img.shields.io/badge/Portfolio-e63946?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+&nbsp;
+<a href="https://drive.google.com/file/d/14_srU4823yQaZOGYUtRRAZ6qIO5wa-lE/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-1d3557?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 
----
+<br/>
 
-## 🛠️ Languages & Tools  
+<a href="https://github.com/alsabur20"><img src="https://komarev.com/ghpvc/?username=alsabur20&label=Profile%20Views&color=e63946&style=for-the-badge" alt="Profile views" /></a>
+&nbsp;
+<a href="https://github.com/alsabur20?tab=followers"><img src="https://img.shields.io/github/followers/alsabur20?label=Followers&style=for-the-badge&color=e63946&labelColor=0d1117" alt="GitHub followers" /></a>
+&nbsp;
+<a href="https://github.com/alsabur20?tab=repositories"><img src="https://img.shields.io/github/stars/alsabur20?label=Total%20Stars&style=for-the-badge&color=e63946&labelColor=0d1117" alt="GitHub stars" /></a>
 
-### 🌐 Frontend  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
+</div>
 
-### 🖥️ Backend  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:e63946,100:0d1117&height=2" width="100%"/>
 
-### 🗄️ Database & Cloud  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-</p>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"> &nbsp;About Me
 
-### 🔧 Other Tools  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</p>
+```bash
+~/alsabur20 $ cat about.sh
 
----
+WORKING_ON="Apps that use AI and stuff I find interesting"
+COLLABORATE="AI/ML, full-stack, or open source projects"
+ASK_ME_ABOUT="Next.js, React Native, FastAPI, Python, backend stuff"
+LOCATION="Pakistan"
+EMAIL="alsabur20@gmail.com"
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alsabur20&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alsabur20&" alt="alsabur20" />
-</p>
-<p>
-  
-</p>
+echo "Let's build something together!"
+```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:e63946,100:0d1117&height=2" width="100%"/>
 
-### 🎵 Fun Fact  
-💡 I love building AI models and optimizing software performance!  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"> &nbsp;Tech Stack
+
+<div align="center">
+
+| Category | Technologies |
+|:---|:---:|
+| **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,bootstrap,tailwind&theme=dark" alt="Frontend" /></a> |
+| **Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express&theme=dark" alt="Backend" /></a> |
+| **Database & Cloud** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,azure,gcp&theme=dark" alt="DB & Cloud" /></a> |
+| **Tools & DevOps** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux,bash,docker,nginx,postman,vscode&theme=dark" alt="Tools" /></a> |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:e63946,100:0d1117&height=2" width="100%"/>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28"> &nbsp;GitHub Streak
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=alsabur20&hide_border=true&border_radius=8&background=0D1117&ring=e63946&fire=e63946&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a8b2d1&sideLabels=a8b2d1&dates=545454" alt="GitHub Streak" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:e63946,100:0d1117&height=2" width="100%"/>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28"> &nbsp;Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alsabur20/test_readme/blob/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/alsabur20/test_readme/blob/output/snake.svg" />
+  <img alt="Snake eating contributions" src="https://github.com/alsabur20/test_readme/blob/output/snake.svg" />
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:e63946,100:0d1117&height=2" width="100%"/>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="28"> &nbsp;Connect with Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/alsabur20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://stackoverflow.com/users/22485261" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+&nbsp;
+<a href="https://www.leetcode.com/alsabur20" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+&nbsp;
+<a href="https://www.hackerrank.com/alsabur20" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+&nbsp;
+<a href="https://fb.com/itssaburhere" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+&nbsp;
+<a href="https://instagram.com/itssaburhere" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+&nbsp;
+<a href="mailto:alsabur20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:e63946&height=150&section=footer&text=if%20(you.likedMyWork)%20%7B%20star%20%E2%AD%90%20%7D&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" alt="footer"/>
