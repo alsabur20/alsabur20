@@ -10,7 +10,7 @@
 
 <a href="https://github.com/alsabur20" target="_blank"><img src="https://img.shields.io/badge/Portfolio-e63946?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 &nbsp;
-<a href="https://drive.google.com/file/d/14_srU4823yQaZOGYUtRRAZ6qIO5wa-lE/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-1d3557?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
+<a href="https://drive.google.com/file/d/1b7Cp7-EHzXQljIOcOeMHytRw-FP_J8qp/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-1d3557?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 
 <br/>
 
